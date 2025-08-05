@@ -27,7 +27,7 @@
 - **Exportable Reports**  
   - Download CSV reports for temperature, air, and water data  
 
-##API Usage  
+## API Usage  
 This project uses the [OpenWeatherMap API](https://openweathermap.org/) for weather and air quality data.  
 **Note:** You must provide your own API key (free tier available).  
 
